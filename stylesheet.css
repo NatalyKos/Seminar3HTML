@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    scroll-behavior: smooth;
+    text-rendering: optimizeSpeed;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+.container{
+    width: 1200px; 
+    margin: 0 auto;
+}
+
+
+.menu{
+padding: 26px 48px;
+}
+
+main{
+    margin: 84px 178.1px;
+}
+footer{
+    margin: 97px 96px;
+}
+.navigation{
+    margin-left: 500px;
+}
+.toptext{
+    margin-bottom: 17px;
+    margin-right: 39px;
+}
+.bottomtext{
+    margin-bottom: 37px;
+    margin-right: 95px;
+}
+.buttons{
+    margin-bottom: 177px; 
+}
+.button1{
+    padding-top: 15px;
+    padding-bottom: 16px;
+    padding-left: 35px;
+    padding-right: 36px;
+}
