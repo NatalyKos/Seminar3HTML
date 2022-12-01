@@ -120,5 +120,15 @@ footer{
     left: 70px;
     top: -221px;
     border-radius: 0px;
-
+}
+.button2{
+    font-family: Gilroy-Bold;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #AAAAAA;
+}
+.navig_link{
+    color: black;
 }
