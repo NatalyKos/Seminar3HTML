@@ -132,3 +132,15 @@ footer{
 .navig_link{
     color: black;
 }
+@font-face {
+    font-family: Gilroy-Bold;
+    src: url(/font/Gilroy-Bold.woff2);
+}
+@font-face {
+    font-family: Gilroy-Semibold;
+    src: url(/font/Gilroy-Semibold.woff2);
+}
+@font-face {
+    font-family: Gilroy-Medium;
+    src: url(/font/Gilroy-Medium.woff2);
+}
